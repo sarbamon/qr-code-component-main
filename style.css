@@ -10,6 +10,7 @@ body {
     overflow: hidden;
     width: 100%;
 }
+
 .card{
     text-align: center;
     background-color: white;
@@ -19,26 +20,31 @@ body {
     width: 375px;
     box-shadow: 0 10px 40px hsl(220, 15%, 55%);
 }
+
 img {
     border-radius: 15px;
     height: 375px;
     width: 375px;
 }
+
 h1 {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
+
 p {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     font-weight: 400;
     padding: 15px;
-  }
-  .attribution {
+}
+
+.attribution {
     font-size: 11px;
     text-align: center;
-  }
-  .attribution a {
+}
+
+.attribution a {
     color: hsl(228, 45%, 44%);
     text-decoration: none;
-  }
+}
